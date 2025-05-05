@@ -10,7 +10,7 @@ import json
 import base64
 import io
 from fpdf import FPDF
-import re  # For extracting conditions from the AI response
+import re 
 
 # Import doctors database
 from doctors_data import find_doctors_for_conditions

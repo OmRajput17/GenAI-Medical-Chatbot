@@ -4,6 +4,7 @@ python-dotenv
 langchain_community
 langchain_core
 streamlit
+openai
 
 
 fpdf>=1.7.2
